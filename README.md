@@ -3,11 +3,14 @@ Programming projects for Algorithm Princeton II
 
 Course website: https://www.coursera.org/learn/algorithms-part2
 
-Project 1: WordNet
+01: WordNet
 
-Project 2: Seam Carving
+02: Seam Carving
 
-Project 4: Boggle
+04: Boggle
+
+05: Burrows-Wheeler
 
 (to be continue...) 
-Project 3: Baseball Elimination
+
+03: Baseball Elimination
